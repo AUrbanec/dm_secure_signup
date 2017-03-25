@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyText
+  last_name: MyText
+  email_address: MyString
+  phone: MyString
+  zip_code: MyString
+  avg_trans: 1
+  3mo_avg: 1
+  purpose: MyText
+  used_btc: MyText
+  buy_prev: MyText
+  btc_knowledge: MyText
+
+two:
+  first_name: MyText
+  last_name: MyText
+  email_address: MyString
+  phone: MyString
+  zip_code: MyString
+  avg_trans: 1
+  3mo_avg: 1
+  purpose: MyText
+  used_btc: MyText
+  buy_prev: MyText
+  btc_knowledge: MyText
